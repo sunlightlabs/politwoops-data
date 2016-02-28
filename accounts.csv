@@ -1,17 +1,6 @@
-First Name, Middle Name, Last Name, Suffix, Office, State, Twitter Handler, Party, Account Type, Linked Accounts, Active, Notes
-Debbie,,Stabenow,,Senator,MI,StabenowPress,D,Official,teamstabenow|stabenow,,
-Debbie,,Stabenow,,Senator,MI,teamstabenow,D,Campaign,StabenowPress|stabenow,,
-Debbie,,Stabenow,,Senator,MI,stabenow,D,Personal,teamstabenow|StabenowPress,,
-Herman,,Cain,,Presidential Challenger,,THEHermanCain,R,Personal,cainpress,Y,
-Herman,,Cain,,Presidential Challenger,GA,cainpress,R,Campaign,THEHermanCain,N,
-Bernard,"""Bernie""",Sanders,,Senator,VT,SenSanders,I,Official,FriendsOfBernie,,
-Bernard,"""Bernie""",Sanders,,Senator,VT,FriendsOfBernie,I,Campaign,SenSanders,,
-Trey,,Gowdy,,House Representative,SC,TGowdySC,R,Official,tgowdy,,
-Trey,,Gowdy,,House Representative,SC,tgowdy,R,Campaign,TGowdySC,,
-Rick,,Scott,,Governor,FL,FLGovScott,R,Official,ScottforFlorida,,
-Rick,,Scott,,Governor,FL,ScottforFlorida,R,Campaign,FLGovScott,,
-Barack,,Obama,,President,DC,BarackObama,D,Official,,Y,
-Bennett,,Ken,, House Challenger, AZ, @BennettArizona, R, Campaign,, Y,
-Greg,,Gianforte,,Gubernatorial Challenger, MT, GregForMontana, R, Campaign, gianforte, Y
-Sue,,Ellspermann,Lieutenant Governor,IN,SueEllspermann,R,Official,,Y 
-Eric,,Holcomb,Lieutenant Governor,IN,@HolcombForIN,R,Official,,Y
+First Name, Middle Name, Last Name, Suffix, Office, State, Twitter Handle, Party, Account Type, Linked Accounts, Active, Notes
+Bennett, , Ken, , House Challenger, AZ, BennettArizona, R, Campaign, , Y, 
+Greg, , Gianforte, , Gubernatorial Challenger, MT, gianforte, R, Personal, GregForMontana, Y, 
+Greg, , Gianforte, , Gubernatorial Challenger, MT, GregForMontana, R, Campaign, gianforte, Y, 
+Sue, , Ellspermann, , Lieutenant Governor, IN, SueEllspermann, R, Official, , Y, 
+Eric, , Holcomb, , Lieutenant Governor, IN, HolcombForIN, R, Official, , Y, 
